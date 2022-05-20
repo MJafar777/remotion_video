@@ -12,7 +12,7 @@ export const Demo = () => {
         width={1920}
         height={1080}
         defaultProps={{
-          titleText: 'MJAfar777',
+          titleText: 'MJafar777',
           titleColor: 'yellow'
         }}
       />
